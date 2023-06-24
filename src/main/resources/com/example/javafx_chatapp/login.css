@@ -1,0 +1,18 @@
+.custom-anchorpane {
+    -fx-alignment: center-right;
+    -fx-background-color: #19c499;
+}
+.custom-button {
+    -fx-background-color: white;
+    -fx-text-fill: #19c499;
+    -fx-border-color: #19c499;
+    -fx-border-width: 2px;
+    -fx-border-radius: 20px;
+    -fx-padding: 8px 16px;
+    -fx-font-size: 14px;
+}
+
+.custom-button:hover {
+    -fx-background-color: #19c499;
+    -fx-text-fill: white;
+}
